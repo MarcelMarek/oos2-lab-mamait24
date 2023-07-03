@@ -1,0 +1,15 @@
+
+E
+java:S1066+"/Merge this if statement with the enclosing one.(ê‹µ¶
+E
+java:S1066/"/Merge this if statement with the enclosing one.(‹–ß
+k	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Íê…øÿÿÿÿ
+k	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¹Å¸ıÿÿÿÿ
+g	java:S117©"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥±²Ñ
+t
+java:S1488}"YImmediately return this expression instead of assigning it to the temporary variable "d".(È‰¹ùÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(«Š›Œ
+R
+java:S1854@"7Remove this useless assignment to local variable "res".(™€•¹ûÿÿÿÿ
+4
+java:S2119œ"Save and re-use this "Random".(¼İÅf
